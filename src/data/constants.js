@@ -8,7 +8,7 @@ export const Bio = {
     " I am a driven learner passionate about software engineering, problem-solving, and emerging technologies. I embrace challenges with a growth mindset and strive to deliver high-quality solutions while making a meaningful impact.",
   github: "https://github.com/kajalvsg",
   resume:
-    "https://drive.google.com/file/d/1AXcb1gGOO1w17jqc2HiAl--TXH4qirZN/view?usp=drive_link",
+    "https://drive.google.com/file/d/1AXcb1gGOO1w17jqc2HiAl--TXH4qirZN/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/kajal-gupta-a18908246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B15tYLM87QReufMRQ7dVEoQ%3D%3D",
   twitter: "https://x.com/KajalGupta127",
 };
